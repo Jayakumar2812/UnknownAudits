@@ -1,0 +1,12 @@
+transfers are not tracked.
+mint(uint amount) function does not use moveDelegate // maybe intentional but causes imbalance
+
+
+
+
+mint only,
+transfer balances,votes
+normal
+same sig reuse stopping
+burn check votes
+i-1 checkpoints..
