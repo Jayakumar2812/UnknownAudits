@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+### Kindly explore the test suite(Mock_Gov_Test_Suite.ts) for functional testing.
+### Kindly explore the test suite(MOck_Gov_Exploit.ts) for Exploit Scenarios and Pocs
+* Currently MockGovToken Contract 19 test passing and 4 test failing whereas recommended has 23 test passing.
+* Thanks a lot for your time and effort.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
